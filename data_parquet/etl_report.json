@@ -1,0 +1,14 @@
+{
+    "total_raw_records": 1919268,
+    "unique_reviews": 1914625,
+    "unique_places_with_reviews": 27967,
+    "duplicates_removed": 4643,
+    "input_csv_size_bytes": 687906186,
+    "input_csv_size_formatted": "656.04 MB",
+    "output_csv_size_bytes": 684085907,
+    "output_csv_size_formatted": "652.40 MB",
+    "output_parquet_size_bytes": 142810937,
+    "output_parquet_size_formatted": "136.20 MB",
+    "size_reduction_percentage": 79.24,
+    "total_time_seconds": 11.55
+}
