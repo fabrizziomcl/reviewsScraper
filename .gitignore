@@ -113,3 +113,7 @@ test/
 !urls.txt
 !urls_places.txt
 chromedriver*
+
+# Allow Data folder for project submission
+!data/
+!data/**
