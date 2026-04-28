@@ -1,13 +1,8 @@
-beautifulsoup4==4.12.3
-certifi==2024.7.4
-charset-normalizer==3.3.2
-colorama==0.4.6
-idna==3.6
-numpy==1.26.4
-pandas==2.2.0
-pymongo==4.6.3
-pytz==2024.1
-requests==2.32.0
-selenium==4.17.2
-termcolor==2.4.0
-webdriver-manager==3.5.2
+# Core Async Web Scraping Engine
+playwright==1.50.0
+
+# Multiprocessing Progress Tracking
+tqdm>=4.66.0
+
+# Data I/O & Structuring
+polars>=0.20.0
